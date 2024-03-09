@@ -1,2 +1,2 @@
 # Estudo
- Designado para estudar diversas linguagens de programação
+ Designado para estudar diversas linguagens de programação e ferramentas.
